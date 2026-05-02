@@ -1,0 +1,69 @@
+{
+  "facts": [
+    {
+      "key": "name",
+      "value": "rahul store in your",
+      "time": "2026-03-19T10:28:27.924321"
+    },
+    {
+      "key": "name",
+      "value": "Rahul",
+      "time": "2026-03-19T10:28:29.434210"
+    },
+    {
+      "key": "what",
+      "value": "what",
+      "time": "2026-03-19T10:29:57.733264"
+    },
+    {
+      "key": "IPL 2018",
+      "value": "Mumbai Indians won the championship in 2018",
+      "time": "2026-03-20T18:42:52.150419"
+    },
+    {
+      "key": "greeting",
+      "value": "Hello",
+      "time": "2026-03-20T18:58:12.371534"
+    },
+    {
+      "key": "greeting",
+      "value": "Hello",
+      "time": "2026-03-20T20:36:39.652772"
+    },
+    {
+      "key": "Rahul_college",
+      "value": "Rahul, I don't have any information about the college you're asking about. Can you please provide more context or details about the college you're interested in?",
+      "time": "2026-04-23T18:03:37.013633"
+    },
+    {
+      "key": "user_request",
+      "value": "send message",
+      "time": "2026-05-02T09:45:58.447991"
+    },
+    {
+      "key": "user_request",
+      "value": "send message",
+      "time": "2026-05-02T09:50:14.678706"
+    },
+    {
+      "key": "last_sent_message",
+      "value": "Your message...",
+      "time": "2026-05-02T09:51:38.762621"
+    },
+    {
+      "key": "user_request",
+      "value": "send message on WhatsApp on my desktop",
+      "time": "2026-05-02T09:52:25.493475"
+    }
+  ],
+  "preferences": {
+    "name": "Rahul",
+    "what": "what",
+    "IPL 2018": "Mumbai Indians won the championship in 2018",
+    "greeting": "Hello",
+    "Rahul_college": "Rahul, I don't have any information about the college you're asking about. Can you please provide more context or details about the college you're interested in?",
+    "user_request": "send message on WhatsApp on my desktop",
+    "last_sent_message": "Your message..."
+  },
+  "conversations": []
+}
